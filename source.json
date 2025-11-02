@@ -1,28 +1,20 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
-    "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+    "name":"KaefiBOT Packages",
+    "id":"dev.kaefibot.listing",
+    "url":"https://kaefibot.github.io/vpm-listing/index.json",
+    "author": {
+        "name": "WoweePaw",
+        "email": "895448+WoweePaw@users.noreply.github.com",
+        "url": "https://www.twitch.tv/woweepaw"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"KaefiBOT Packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
+        "url":"https://woweepaw.itch.io/kaefibot",
+        "text":"Download KaefiBOT"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "KaefiBOT/VRC-Controller"
     ],
-    "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
-    ]
+    "packages":[]
 }
